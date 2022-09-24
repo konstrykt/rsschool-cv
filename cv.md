@@ -21,3 +21,14 @@ That's why I started studying at RSSchool
 ### Code Examples:
 `not yet`
 ***
+### Experience:
+This course is my first experience.
+***
+### Education:
+I have no education in this direction.
+I am currently taking this course.(RSSchool: JavaScript/Front-end 2022Q3 )
+***
+### English:
+I don't know English well. I can watch and partially understand the videos in English .
+If the video is about music, I understand more. 
+I speak like a first-grader.:satisfied:
